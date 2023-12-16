@@ -10,9 +10,9 @@
 
 <table border="1">
         <tr>
-            <th>Tabla de 5</th>
-            <th>Tabla de 13</th>
-            <th>Tabla de 11</th>
+            <th>Primera tabla</th>
+            <th>Segunda tabla</th>
+            <th>Tercera tabla</th>
         </tr>
 
 
